@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\speed_000\Documents\keepTheCoin\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2606228414.index
+666803265.index
+181077248.index
+22807018.index
+2449371373.index
